@@ -58,4 +58,4 @@ You can download the project files, and run in them in their respective programs
    ```sh
    https://www.arduino.cc/en/software
    ```
-3 Install any compatible 3d modelling software with .SLDPRT files.
+3. Install any compatible 3d modelling software with .SLDPRT files.
